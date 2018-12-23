@@ -63,15 +63,3 @@ let shadowF = () => {
 	shadow_center.style.display = "none";
 	content.style.filter = "saturate(100%)";
 }
-fdsakfdçsakçlfdsa
-fdsçalkfçkdsaçfkdsa
-sadfkçkdsfaçkfdçsa
-fçsdakçlfkdsaçkfdsa
-fkdsaçkfçdsak
-fkdsaçkçfkdsaf
-dsfakfçdskaçfkdsaç
-fçsdakçfkçsad
-fçsdakçlfkdsaçkfdsafdsçakçfdsak
-kfsdaçkfçsdakçfdsa
-çfsdakçlfkdsçakdfsa
-sdfaçkfdçsakçdfksçdsa
