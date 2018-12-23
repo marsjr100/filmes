@@ -27,7 +27,7 @@ function clicks() {
 }
 
 window.onload = () => {
-	fetch('http://191.35.93.234:4000').then(response => {
+	fetch('http://kirk.lcc.ufcg.edu.br:8080/').then(response => {
 		return response.json();
 	}).then(data => {
 		let filmes = "";
